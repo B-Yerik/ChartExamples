@@ -8,7 +8,7 @@ window.geometry("450x450")
 window.title("Primery postroenie grafikov")
 
 #Zapusk cikla mainloop
-window.mainloop
+window.mainloop()
 
 
 
